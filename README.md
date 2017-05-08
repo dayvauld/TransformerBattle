@@ -1,5 +1,5 @@
 # Transformer Battle
-ccf
+
 Robot fighting command line application.
 
 ## Requirements
